@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Attack on Titan Anime Gif"/>
-  <p><em>"Keep moving forward." – Eren Yeager, <strong>Attack on Titan</strong></em></p>
+  <img src="https://media.giphy.com/media/2uI3lRd0pUHY0/giphy.gif" height="150" alt="Light Yagami writing - Death Note Gif"/>
+  <p><em>"I am the god of the new world." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
