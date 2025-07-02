@@ -6,6 +6,74 @@
 ## 💻 Programming Languages
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cplusplus" height="40" alt="C++" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+</div>
+
+###
+
+## 🧰 Libraries & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=ultralytics" height="40" alt="YOLO" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+</div>
+
+###
+
+## 🔍 Computer Vision & ML Skills
+
+- Object Detection & Tracking (YOLO, Deep SORT)  
+- Video & Image Processing (OpenCV, Canny, SIFT)  
+- Model Training & Fine-tuning (PyTorch, TensorFlow)  
+- Sequence Modeling (LSTM, TimeSformer)  
+- Data Analysis & Visualization (Pandas, NumPy, Matplotlib)  
+- Deployment & CI/CD (Docker, GitHub Actions)  
+
+###
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-nubi&show_icons=true&theme=dracula&count_private=true" height="130" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-nubi&theme=dracula&row=1&column=6" height="130" alt="Trophies" />
+</div>
+
+###
+
+## 📫 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
+  </a>
+</div><h1 align="center">Hey 👋 I'm Abdullah Nubi</h1>
+<h3 align="center">AI & Computer Vision Developer | ML Researcher</h3>
+
+###
+
+## 💻 Programming Languages
+
+<div align="center">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img width="12"/>
