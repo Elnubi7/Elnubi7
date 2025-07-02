@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://tenor.com/view/monster-anime-naoki-urasawa-dr-tenma-tenma-gif-17915076" height="150" alt="Monster Anime Gif"/>
-</div>
-
-<div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=Elnubi7&style=flat-square)](https://komarev.com/ghpvc/?username=Elnubi7)
+  <!-- Gif from the anime Naruto -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="150" alt="Naruto Running Gif"/>
+  <p><em>“Believe it!” – Naruto Uzumaki, <strong>Naruto</strong></em></p>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
@@ -80,4 +78,8 @@
 
 <div align="center">
   Made with ❤️ & 🤖 by Abdullah Nubi
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitors"/>
 </div>
