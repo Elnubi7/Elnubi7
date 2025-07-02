@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey 👋 I'm Abdullah Nubi (Elnubi7)</h1>
-<h3 align="center">AI & Deep Learning Engineer | CV, NLP & OCR Expert</h3>
+<h3 align="center">Computer Vision Engineer | Real-Time AI & Vision Systems</h3>
 
 ---
 
@@ -26,27 +26,43 @@
 ## 🛠 Languages & IDEs
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="40" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="40" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,jupyter,googlecolab,cuda" height="40" alt="IDEs & Platforms" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,jupyter,googlecolab,cuda" height="40" />
 </div>
 
 ---
 
-## 🔧 Frameworks & Libraries
+## 📦 Computer Vision Libraries & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,yolo,opencv,mediapipe,pandas,numpy,cvzone,firebase,deep-sort,ocr" height="40" alt="Tools & Libs" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/icon/icon.png" height="40" alt="YOLOv8" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/MediaPipe_logo.svg" height="40" alt="MediaPipe" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="40" />
+  <img width="12"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="Firebase" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tesseract_logo.svg" height="40" alt="OCR" />
 </div>
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 Core Expertise in Computer Vision
 
-- **Computer Vision**: YOLOv8 / SSD, Deep SORT tracking, Pose Estimation, real-time pipelines  
-- **Deep Learning**: CNNs, RNNs (LSTM), Transformers (ViT, BERT), fine-tuning & transfer learning  
-- **NLP & OCR**: Text Classification, NER, Q&A, OCR with OpenCV & Tesseract  
-- **Deployment**: Docker, GitHub Actions CI/CD, real-time inference APIs  
+- ✅ Object Detection (YOLOv8, SSD)
+- ✅ Real-Time Person Tracking (Deep SORT)
+- ✅ Pose Estimation (MediaPipe + Custom Keypoints)
+- ✅ OCR using OpenCV + Tesseract
+- ✅ Desk Activity Monitoring + Smart Surveillance
+- ✅ Firebase + Live Analytics
+- ✅ Camera Integration & Stream Processing
+- ✅ Optimization with CUDA and lightweight models
 
 ---
 
@@ -60,4 +76,6 @@
 
 ---
 
-Made with ❤️ by Abdullah Nubi  
+<div align="center">
+  Made with ❤️ by Abdullah Nubi — Computer Vision is 🔥
+</div>
