@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQdK6bnk3wL2U/giphy.gif" height="150" alt="Computer Vision GIF"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="150" alt="Anime Wave Gif"/>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
