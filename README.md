@@ -58,10 +58,10 @@
 
 - **Object Detection**: YOLOv8, SSD & custom models  
 - **Real-Time Tracking**: Deep SORT, multi-object tracking  
-- **Pose Estimation**: MediaPipe pipelines & custom ML models  
+- **Pose Estimation**: MediaPipe pipelines & custom ML  
 - **OCR & Text Extraction**: OpenCV + Tesseract workflows  
 - **Smart Surveillance**: Desk activity, intrusion alerts  
-- **End-to-End Systems**: Camera ingest → Inference → Dashboard (Firebase)  
+- **End-to-End Systems**: Camera → Inference → Dashboard (Firebase)  
 - **Performance Tuning**: CUDA acceleration & lightweight models
 
 ---
@@ -69,17 +69,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Elnubi7&theme=dracula&hide_border=false&border_radius=5" height="120" alt="Streak"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Elnubi7&show_icons=true&theme=dracula&count_private=true" height="120" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Elnubi7&show_icons=true&theme=dracula&count_private=true" height="120" alt="GitHub Stats"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitors"/>
+  Made with ❤️ & 🤖 by Abdullah Nubi
 </div>
-
-<p align="center">
-  Made with ❤️ &amp; 🤖 by Abdullah Nubi
-</p>
