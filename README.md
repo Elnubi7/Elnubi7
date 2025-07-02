@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="150" alt="Anime Wave Gif"/>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" height="150" alt="Anime Wave Gif"/>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
@@ -76,4 +76,8 @@
 
 <div align="center">
   Made with ❤️ & 🤖 by Abdullah Nubi
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitors"/>
 </div>
