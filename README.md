@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/2uI3lRd0pUHY0/giphy.gif" height="150" alt="Light Yagami writing - Death Note Gif"/>
-  <p><em>"I am the god of the new world." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
+  <img src="https://media.giphy.com/media/Hw0wIr1YL75VC/giphy.gif" height="150" alt="Light Yagami - Death Note Gif"/>
+  <p><em>"This world is rotten, and those who are making it rot deserve to die." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
