@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="150" alt="Anime Wave Gif"/>
 </div>
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Elnubi7&style=flat-square)
-</div>
-
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
 <h3 align="center">🔭 Computer Vision Engineer | Real-Time AI & Vision Systems Specialist</h3>
 
