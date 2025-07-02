@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Gif from the anime Naruto -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="150" alt="Naruto Running Gif"/>
-  <p><em>“Believe it!” – Naruto Uzumaki, <strong>Naruto</strong></em></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Attack on Titan Anime Gif"/>
+  <p><em>"Keep moving forward." – Eren Yeager, <strong>Attack on Titan</strong></em></p>
 </div>
 
 <h1 align="center">👋 Hi, I’m Abdullah Nubi (Elnubi7)</h1>
