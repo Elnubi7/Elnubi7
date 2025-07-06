@@ -12,15 +12,14 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <!-- Animated GIF badges -->
   <a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">
-    <img src="https://your-cdn.com/badges/linkedin-animated.gif" alt="LinkedIn"/>
+    <img src="https://media.giphy.com/media/l3V0j3ytFyGHqiV7W/giphy.gif" alt="LinkedIn Animated" width="80"/>
   </a>
   <a href="https://codeforces.com/profile/AItheGOAT" target="_blank">
-    <img src="https://your-cdn.com/badges/codeforces-animated.gif" alt="Codeforces"/>
+    <img src="https://media.giphy.com/media/3o6ZsYyXJgkmqf2E4Y/giphy.gif" alt="Codeforces Animated" width="80"/>
   </a>
   <a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">
-    <img src="https://your-cdn.com/badges/facebook-animated.gif" alt="Facebook"/>
+    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Facebook Animated" width="80"/>
   </a>
 </div>
 
@@ -29,15 +28,15 @@
 ## 🛠 Languages & IDEs
 
 <div align="center">
-  <img src="https://your-cdn.com/badges/python-animated.gif" alt="Python"/>
-  <img src="https://your-cdn.com/badges/c-animated.gif" alt="C"/>
-  <img src="https://your-cdn.com/badges/cpp-animated.gif" alt="C++"/>
-  <img src="https://your-cdn.com/badges/java-animated.gif" alt="Java"/>
-  <img src="https://your-cdn.com/badges/vscode-animated.gif" alt="VS Code"/>
-  <img src="https://your-cdn.com/badges/pycharm-animated.gif" alt="PyCharm"/>
-  <img src="https://your-cdn.com/badges/jupyter-animated.gif" alt="Jupyter"/>
-  <img src="https://your-cdn.com/badges/colab-animated.gif" alt="Colab"/>
-  <img src="https://your-cdn.com/badges/cuda-animated.gif" alt="CUDA"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Python – Animated Typing" width="80"/>
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="C – Animated Compile" width="80"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="C++ – Animated Code" width="80"/>
+  <img src="https://media.giphy.com/media/l0MYrRRvNl2kK5H7O/giphy.gif" alt="Java – Animated Run" width="80"/>
+  <img src="https://media.giphy.com/media/3o6ZtpQEfW0HibZR7u/giphy.gif" alt="VS Code – Animated Open" width="80"/>
+  <img src="https://media.giphy.com/media/26Ahv0v66qLPh8bUo/giphy.gif" alt="PyCharm – Animated Debug" width="80"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Jupyter – Animated Execute" width="80"/>
+  <img src="https://media.giphy.com/media/3o7aCVV0GbqklXLQVW/giphy.gif" alt="Colab – Animated Upload" width="80"/>
+  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" alt="CUDA – Animated GPU Activation" width="80"/>
 </div>
 
 ---
@@ -45,22 +44,17 @@
 ## 📦 Computer Vision Tools
 
 <div align="center">
-  <img src="https://your-cdn.com/badges/pytorch-animated.gif" alt="PyTorch"/>
-  <img src="https://your-cdn.com/badges/yolov8-animated.gif" alt="YOLOv8"/>
-  <img src="https://your-cdn.com/badges/opencv-animated.gif" alt="OpenCV"/>
-  <img src="https://your-cdn.com/badges/mediapipe-animated.gif" alt="MediaPipe"/>
-  <img src="https://your-cdn.com/badges/deepsort-animated.gif" alt="Deep SORT"/>
-  <img src="https://your-cdn.com/badges/cvzone-animated.gif" alt="cvzone"/>
-  <img src="https://your-cdn.com/badges/tesseract-animated.gif" alt="Tesseract OCR"/>
-  <img src="https://your-cdn.com/badges/firebase-animated.gif" alt="Firebase"/>
+  <img src="https://media.giphy.com/media/3o6Zt6D5XzWjVXU0bm/giphy.gif" alt="PyTorch – Animated Training" width="80"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="YOLOv8 – Animated Detection" width="80"/>
+  <img src="https://media.giphy.com/media/3o6ZsY6YKDx0YlCGGK/giphy.gif" alt="OpenCV – Animated Filter" width="80"/>
+  <img src="https://media.giphy.com/media/3o7aCUMpHROgD0QjWM/giphy.gif" alt="MediaPipe – Animated Pose" width="80"/>
+  <img src="https://media.giphy.com/media/l0HlDEcGxzLeemKcI/giphy.gif" alt="Deep SORT – Animated Tracking" width="80"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="cvzone – Animated Overlay" width="80"/>
+  <img src="https://media.giphy.com/media/3o7aD6D6iR9Y1bX4k8/giphy.gif" alt="Tesseract OCR – Animated Text Extraction" width="80"/>
+  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" alt="Firebase – Animated Sync" width="80"/>
 </div>
 
 ---
-
-<!-- Animated section divider -->
-<div align="center">
-  <img src="https://assets2.lottiefiles.com/private_files/lf30_ryzjyw0p.json" alt="section divider animation" width="400"/>
-</div>
 
 ## 🚀 Core Expertise
 
@@ -68,8 +62,8 @@
 - **Real-Time Tracking**: Deep SORT, multi-object tracking  
 - **Pose Estimation**: MediaPipe pipelines & custom ML  
 - **OCR & Text Extraction**: OpenCV + Tesseract workflows  
-- **Smart Surveillance**: Desk activity, intrusion alerts  
-- **End-to-End Systems**: Camera → Inference → Dashboard (Firebase)  
+- **Smart Surveillance**: Desk activity detection, intrusion alerts  
+- **End-to-End Systems**: Camera → Inference → Firebase dashboard  
 - **Performance Tuning**: CUDA acceleration & lightweight models
 
 ---
@@ -77,7 +71,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://your-cdn.com/animations/github-stats-animated.gif" alt="GitHub Stats"/>
+  <img src="https://media.giphy.com/media/l0MYyDa8nFJdYzFyI/giphy.gif" alt="GitHub Stats Animated" width="200"/>
 </div>
 
 ---
@@ -87,5 +81,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitor Count"/>
 </div>
