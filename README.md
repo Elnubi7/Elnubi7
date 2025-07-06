@@ -1,6 +1,16 @@
+<!-- Load Lottie player script once -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <div align="center">
-  <!-- Animated header (Lottie) -->
-  <img src="https://assets4.lottiefiles.com/packages/lf20_tfb3estd.json" alt="glowing notebook animation" width="200"/>
+  <!-- Animated header -->
+  <lottie-player
+    src="https://assets4.lottiefiles.com/packages/lf20_tfb3estd.json"
+    background="transparent"
+    speed="1"
+    style="width:200px; height:200px;"
+    loop
+    autoplay>
+  </lottie-player>
   <p><em>"This world is rotten, and those who are making it rot deserve to die." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
 </div>
 
@@ -12,15 +22,42 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">
-    <img src="https://media.giphy.com/media/l3V0j3ytFyGHqiV7W/giphy.gif" alt="LinkedIn Animated" width="80"/>
-  </a>
-  <a href="https://codeforces.com/profile/AItheGOAT" target="_blank">
-    <img src="https://media.giphy.com/media/3o6ZsYyXJgkmqf2E4Y/giphy.gif" alt="Codeforces Animated" width="80"/>
-  </a>
-  <a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">
-    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Facebook Animated" width="80"/>
-  </a>
+  <!-- LinkedIn -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets1.lottiefiles.com/packages/lf20_sSF6EG.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p><a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">LinkedIn</a></p>
+  </div>
+  <!-- Codeforces -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets4.lottiefiles.com/packages/lf20_dgjK3N.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p><a href="https://codeforces.com/profile/AItheGOAT" target="_blank">Codeforces</a></p>
+  </div>
+  <!-- Facebook -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets1.lottiefiles.com/packages/lf20_zgj2Rn.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p><a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">Facebook</a></p>
+  </div>
 </div>
 
 ---
@@ -28,15 +65,114 @@
 ## 🛠 Languages & IDEs
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Python – Animated Typing" width="80"/>
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="C – Animated Compile" width="80"/>
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="C++ – Animated Code" width="80"/>
-  <img src="https://media.giphy.com/media/l0MYrRRvNl2kK5H7O/giphy.gif" alt="Java – Animated Run" width="80"/>
-  <img src="https://media.giphy.com/media/3o6ZtpQEfW0HibZR7u/giphy.gif" alt="VS Code – Animated Open" width="80"/>
-  <img src="https://media.giphy.com/media/26Ahv0v66qLPh8bUo/giphy.gif" alt="PyCharm – Animated Debug" width="80"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Jupyter – Animated Execute" width="80"/>
-  <img src="https://media.giphy.com/media/3o7aCVV0GbqklXLQVW/giphy.gif" alt="Colab – Animated Upload" width="80"/>
-  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" alt="CUDA – Animated GPU Activation" width="80"/>
+  <!-- Python -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets9.lottiefiles.com/packages/lf20_pprxh53t.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Python</p>
+  </div>
+  <!-- C -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets6.lottiefiles.com/packages/lf20_z2b4s0fz.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>C</p>
+  </div>
+  <!-- C++ -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets10.lottiefiles.com/packages/lf20_8wRElu.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>C++</p>
+  </div>
+  <!-- Java -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets4.lottiefiles.com/packages/lf20_ukuhyuxe.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Java</p>
+  </div>
+  <!-- VS Code -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets9.lottiefiles.com/private_files/lf30_j0sksehl.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>VS Code</p>
+  </div>
+  <!-- PyCharm -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets2.lottiefiles.com/packages/lf20_Cc8Bpg.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>PyCharm</p>
+  </div>
+  <!-- Jupyter -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets1.lottiefiles.com/packages/lf20_rBd3f9.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Jupyter</p>
+  </div>
+  <!-- Colab -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets4.lottiefiles.com/packages/lf20_q5qeoo8o.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Colab</p>
+  </div>
+  <!-- CUDA -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets9.lottiefiles.com/packages/lf20_ykkwbgqe.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>CUDA</p>
+  </div>
 </div>
 
 ---
@@ -44,14 +180,102 @@
 ## 📦 Computer Vision Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6D5XzWjVXU0bm/giphy.gif" alt="PyTorch – Animated Training" width="80"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="YOLOv8 – Animated Detection" width="80"/>
-  <img src="https://media.giphy.com/media/3o6ZsY6YKDx0YlCGGK/giphy.gif" alt="OpenCV – Animated Filter" width="80"/>
-  <img src="https://media.giphy.com/media/3o7aCUMpHROgD0QjWM/giphy.gif" alt="MediaPipe – Animated Pose" width="80"/>
-  <img src="https://media.giphy.com/media/l0HlDEcGxzLeemKcI/giphy.gif" alt="Deep SORT – Animated Tracking" width="80"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="cvzone – Animated Overlay" width="80"/>
-  <img src="https://media.giphy.com/media/3o7aD6D6iR9Y1bX4k8/giphy.gif" alt="Tesseract OCR – Animated Text Extraction" width="80"/>
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" alt="Firebase – Animated Sync" width="80"/>
+  <!-- PyTorch -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets6.lottiefiles.com/packages/lf20_7J8p1v.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>PyTorch</p>
+  </div>
+  <!-- YOLOv8 -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets2.lottiefiles.com/packages/lf20_mjlh3h.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>YOLOv8</p>
+  </div>
+  <!-- OpenCV -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets3.lottiefiles.com/packages/lf20_jtxwzv.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>OpenCV</p>
+  </div>
+  <!-- MediaPipe -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets1.lottiefiles.com/packages/lf20_mcz0ng.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>MediaPipe</p>
+  </div>
+  <!-- Deep SORT -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets7.lottiefiles.com/packages/lf20_p0nj8f.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Deep SORT</p>
+  </div>
+  <!-- cvzone -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets5.lottiefiles.com/packages/lf20_kx7yk1ek.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>cvzone</p>
+  </div>
+  <!-- Tesseract OCR -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets8.lottiefiles.com/packages/lf20_f2lzedfm.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Tesseract OCR</p>
+  </div>
+  <!-- Firebase -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <lottie-player
+      src="https://assets3.lottiefiles.com/packages/lf20_p2ek4j.json"
+      background="transparent"
+      speed="1"
+      style="width:80px; height:80px;"
+      loop
+      autoplay>
+    </lottie-player>
+    <p>Firebase</p>
+  </div>
 </div>
 
 ---
@@ -71,7 +295,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYyDa8nFJdYzFyI/giphy.gif" alt="GitHub Stats Animated" width="200"/>
+  <lottie-player
+    src="https://assets2.lottiefiles.com/packages/lf20_yw1bp8cu.json"
+    background="transparent"
+    speed="1"
+    style="width:200px; height:200px;"
+    loop
+    autoplay>
+  </lottie-player>
 </div>
 
 ---
