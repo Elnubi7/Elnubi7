@@ -1,8 +1,5 @@
-<!-- NOTE: GitHub strips scripts, فلازم IMG فقط -->
-
 <div align="center">
-  <!-- Header animated SVG -->
-  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.svg" alt="Loading..." width="120"/>
+  <img src="https://media.giphy.com/media/Hw0wIr1YL75VC/giphy.gif" height="150" alt="Light Yagami - Death Note Gif"/>
   <p><em>"This world is rotten, and those who are making it rot deserve to die." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
 </div>
 
@@ -15,13 +12,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">
-    <img src="https://loading.io/spinners/circle/lg.curve-spinner.svg" alt="LinkedIn" width="80"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/AItheGOAT" target="_blank">
-    <img src="https://loading.io/spinners/ellipsis/lg.ellipsis-spinner.svg" alt="Codeforces" width="80"/>
+    <img src="https://img.shields.io/badge/Codeforces-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">
-    <img src="https://loading.io/spinners/puff/lg.puff-loader.svg" alt="Facebook" width="80"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
 
@@ -30,15 +27,15 @@
 ## 🛠 Languages & IDEs
 
 <div align="center">
-  <img src="https://loading.io/spinners/rolling/lg.rolling-spinner.svg" alt="Python" width="60"/><span> Python</span>
-  <img src="https://loading.io/spinners/heartbeat/lg.heartbeat-spinner.svg" alt="C" width="60"/><span> C</span>
-  <img src="https://loading.io/spinners/oval/lg.oval-spinner.svg" alt="C++" width="60"/><span> C++</span>
-  <img src="https://loading.io/spinners/ring/lg.ring-spinner.svg" alt="Java" width="60"/><span> Java</span>
-  <img src="https://loading.io/spinners/slash/lg.slash-spinner.svg" alt="VS Code" width="60"/><span> VS Code</span>
-  <img src="https://loading.io/spinners/metro/lg.metro-spinner.svg" alt="PyCharm" width="60"/><span> PyCharm</span>
-  <img src="https://loading.io/spinners/dots/lg.dots-spinner.svg" alt="Jupyter" width="60"/><span> Jupyter</span>
-  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.svg" alt="Colab" width="60"/><span> Colab</span>
-  <img src="https://loading.io/spinners/tail-spin/lg.tail-spin-spinner.svg" alt="CUDA" width="60"/><span> CUDA</span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
+  <img src="https://img.shields.io/badge/CUDA-FC5303?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </div>
 
 ---
@@ -46,14 +43,14 @@
 ## 📦 Computer Vision Tools
 
 <div align="center">
-  <img src="https://loading.io/spinners/gear/lg.gear-spinner.svg" alt="PyTorch" width="60"/><span> PyTorch</span>
-  <img src="https://loading.io/spinners/radioactive/lg.radioactive-spinner.svg" alt="YOLOv8" width="60"/><span> YOLOv8</span>
-  <img src="https://loading.io/spinners/roller/lg.roller-spinner.svg" alt="OpenCV" width="60"/><span> OpenCV</span>
-  <img src="https://loading.io/spinners/plane/lg.plane-spinner.svg" alt="MediaPipe" width="60"/><span> MediaPipe</span>
-  <img src="https://loading.io/spinners/bars/lg.bars-spinner.svg" alt="Deep SORT" width="60"/><span> Deep SORT</span>
-  <img src="https://loading.io/spinners/flower/lg.flower-spinner.svg" alt="cvzone" width="60"/><span> cvzone</span>
-  <img src="https://loading.io/spinners/wave/lg.wave-spinner.svg" alt="Tesseract OCR" width="60"/><span> Tesseract OCR</span>
-  <img src="https://loading.io/spinners/three-dots/lg.three-dots-spinner.svg" alt="Firebase" width="60"/><span> Firebase</span>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Deep_SORT-0052CC?style=for-the-badge" alt="Deep SORT"/>
+  <img src="https://img.shields.io/badge/cvzone-FF6F61?style=for-the-badge" alt="cvzone"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-000000?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </div>
 
 ---
@@ -64,8 +61,8 @@
 - **Real-Time Tracking**: Deep SORT, multi-object tracking  
 - **Pose Estimation**: MediaPipe pipelines & custom ML  
 - **OCR & Text Extraction**: OpenCV + Tesseract workflows  
-- **Smart Surveillance**: Desk activity detection, intrusion alerts  
-- **End-to-End Systems**: Camera → Inference → Firebase dashboard  
+- **Smart Surveillance**: Desk activity, intrusion alerts  
+- **End-to-End Systems**: Camera → Inference → Dashboard (Firebase)  
 - **Performance Tuning**: CUDA acceleration & lightweight models
 
 ---
@@ -73,7 +70,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://loading.io/spinners/puff/lg.puff-loader.svg" alt="GitHub Stats" width="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Elnubi7&show_icons=true&theme=dracula&count_private=true" height="120" alt="GitHub Stats"/>
 </div>
 
 ---
@@ -83,5 +80,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elnubi7.Elnubi7&style=flat" alt="Visitors"/>
 </div>
