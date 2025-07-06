@@ -1,16 +1,8 @@
-<!-- Load Lottie player script once -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<!-- NOTE: GitHub strips scripts, فلازم IMG فقط -->
 
 <div align="center">
-  <!-- Animated header -->
-  <lottie-player
-    src="https://assets4.lottiefiles.com/packages/lf20_tfb3estd.json"
-    background="transparent"
-    speed="1"
-    style="width:200px; height:200px;"
-    loop
-    autoplay>
-  </lottie-player>
+  <!-- Header animated SVG -->
+  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.svg" alt="Loading..." width="120"/>
   <p><em>"This world is rotten, and those who are making it rot deserve to die." – <strong>Light Yagami</strong>, <strong>Death Note</strong></em></p>
 </div>
 
@@ -22,42 +14,15 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <!-- LinkedIn -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets1.lottiefiles.com/packages/lf20_sSF6EG.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p><a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">LinkedIn</a></p>
-  </div>
-  <!-- Codeforces -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets4.lottiefiles.com/packages/lf20_dgjK3N.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p><a href="https://codeforces.com/profile/AItheGOAT" target="_blank">Codeforces</a></p>
-  </div>
-  <!-- Facebook -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets1.lottiefiles.com/packages/lf20_zgj2Rn.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p><a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">Facebook</a></p>
-  </div>
+  <a href="https://www.linkedin.com/in/abdullah-nupi" target="_blank">
+    <img src="https://loading.io/spinners/circle/lg.curve-spinner.svg" alt="LinkedIn" width="80"/>
+  </a>
+  <a href="https://codeforces.com/profile/AItheGOAT" target="_blank">
+    <img src="https://loading.io/spinners/ellipsis/lg.ellipsis-spinner.svg" alt="Codeforces" width="80"/>
+  </a>
+  <a href="https://www.facebook.com/share/1F9Zor37UK/?mibextid=wwXIfr" target="_blank">
+    <img src="https://loading.io/spinners/puff/lg.puff-loader.svg" alt="Facebook" width="80"/>
+  </a>
 </div>
 
 ---
@@ -65,114 +30,15 @@
 ## 🛠 Languages & IDEs
 
 <div align="center">
-  <!-- Python -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets9.lottiefiles.com/packages/lf20_pprxh53t.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Python</p>
-  </div>
-  <!-- C -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets6.lottiefiles.com/packages/lf20_z2b4s0fz.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>C</p>
-  </div>
-  <!-- C++ -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets10.lottiefiles.com/packages/lf20_8wRElu.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>C++</p>
-  </div>
-  <!-- Java -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets4.lottiefiles.com/packages/lf20_ukuhyuxe.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Java</p>
-  </div>
-  <!-- VS Code -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets9.lottiefiles.com/private_files/lf30_j0sksehl.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>VS Code</p>
-  </div>
-  <!-- PyCharm -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets2.lottiefiles.com/packages/lf20_Cc8Bpg.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>PyCharm</p>
-  </div>
-  <!-- Jupyter -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets1.lottiefiles.com/packages/lf20_rBd3f9.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Jupyter</p>
-  </div>
-  <!-- Colab -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets4.lottiefiles.com/packages/lf20_q5qeoo8o.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Colab</p>
-  </div>
-  <!-- CUDA -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets9.lottiefiles.com/packages/lf20_ykkwbgqe.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>CUDA</p>
-  </div>
+  <img src="https://loading.io/spinners/rolling/lg.rolling-spinner.svg" alt="Python" width="60"/><span> Python</span>
+  <img src="https://loading.io/spinners/heartbeat/lg.heartbeat-spinner.svg" alt="C" width="60"/><span> C</span>
+  <img src="https://loading.io/spinners/oval/lg.oval-spinner.svg" alt="C++" width="60"/><span> C++</span>
+  <img src="https://loading.io/spinners/ring/lg.ring-spinner.svg" alt="Java" width="60"/><span> Java</span>
+  <img src="https://loading.io/spinners/slash/lg.slash-spinner.svg" alt="VS Code" width="60"/><span> VS Code</span>
+  <img src="https://loading.io/spinners/metro/lg.metro-spinner.svg" alt="PyCharm" width="60"/><span> PyCharm</span>
+  <img src="https://loading.io/spinners/dots/lg.dots-spinner.svg" alt="Jupyter" width="60"/><span> Jupyter</span>
+  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.svg" alt="Colab" width="60"/><span> Colab</span>
+  <img src="https://loading.io/spinners/tail-spin/lg.tail-spin-spinner.svg" alt="CUDA" width="60"/><span> CUDA</span>
 </div>
 
 ---
@@ -180,102 +46,14 @@
 ## 📦 Computer Vision Tools
 
 <div align="center">
-  <!-- PyTorch -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets6.lottiefiles.com/packages/lf20_7J8p1v.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>PyTorch</p>
-  </div>
-  <!-- YOLOv8 -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets2.lottiefiles.com/packages/lf20_mjlh3h.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>YOLOv8</p>
-  </div>
-  <!-- OpenCV -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets3.lottiefiles.com/packages/lf20_jtxwzv.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>OpenCV</p>
-  </div>
-  <!-- MediaPipe -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets1.lottiefiles.com/packages/lf20_mcz0ng.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>MediaPipe</p>
-  </div>
-  <!-- Deep SORT -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets7.lottiefiles.com/packages/lf20_p0nj8f.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Deep SORT</p>
-  </div>
-  <!-- cvzone -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets5.lottiefiles.com/packages/lf20_kx7yk1ek.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>cvzone</p>
-  </div>
-  <!-- Tesseract OCR -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets8.lottiefiles.com/packages/lf20_f2lzedfm.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Tesseract OCR</p>
-  </div>
-  <!-- Firebase -->
-  <div style="display:inline-block; margin:10px; text-align:center;">
-    <lottie-player
-      src="https://assets3.lottiefiles.com/packages/lf20_p2ek4j.json"
-      background="transparent"
-      speed="1"
-      style="width:80px; height:80px;"
-      loop
-      autoplay>
-    </lottie-player>
-    <p>Firebase</p>
-  </div>
+  <img src="https://loading.io/spinners/gear/lg.gear-spinner.svg" alt="PyTorch" width="60"/><span> PyTorch</span>
+  <img src="https://loading.io/spinners/radioactive/lg.radioactive-spinner.svg" alt="YOLOv8" width="60"/><span> YOLOv8</span>
+  <img src="https://loading.io/spinners/roller/lg.roller-spinner.svg" alt="OpenCV" width="60"/><span> OpenCV</span>
+  <img src="https://loading.io/spinners/plane/lg.plane-spinner.svg" alt="MediaPipe" width="60"/><span> MediaPipe</span>
+  <img src="https://loading.io/spinners/bars/lg.bars-spinner.svg" alt="Deep SORT" width="60"/><span> Deep SORT</span>
+  <img src="https://loading.io/spinners/flower/lg.flower-spinner.svg" alt="cvzone" width="60"/><span> cvzone</span>
+  <img src="https://loading.io/spinners/wave/lg.wave-spinner.svg" alt="Tesseract OCR" width="60"/><span> Tesseract OCR</span>
+  <img src="https://loading.io/spinners/three-dots/lg.three-dots-spinner.svg" alt="Firebase" width="60"/><span> Firebase</span>
 </div>
 
 ---
@@ -295,14 +73,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <lottie-player
-    src="https://assets2.lottiefiles.com/packages/lf20_yw1bp8cu.json"
-    background="transparent"
-    speed="1"
-    style="width:200px; height:200px;"
-    loop
-    autoplay>
-  </lottie-player>
+  <img src="https://loading.io/spinners/puff/lg.puff-loader.svg" alt="GitHub Stats" width="120"/>
 </div>
 
 ---
