@@ -1,145 +1,102 @@
-<!-- =======================
-GitHub Profile README
-User: Elnubi7
-======================== -->
+<!-- Profile Header -->
+<p align="center">
+  <a href="https://github.com/Elnubi7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Abdullah+Nubi+%7C+AI+Engineer;ML+%26+Deep+Learning+%7C+LLMs+%7C+MLOps;Competitive+Programmer+%7C+Codeforces+Expert;Building+intelligent+systems+end-to-end" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ML+%E2%86%92+MLOps;Building+end-to-end+ML+systems+in+production;NLP+%7C+CV+%7C+Deployment+%7C+Pipelines" />
-
-<br/>
-
-<a href="https://github.com/Elnubi7">
-  <img src="https://img.shields.io/badge/GitHub-Elnubi7-111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/elnubi/">
-  <img src="https://img.shields.io/badge/LinkedIn-elnubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Elnubi7&style=for-the-badge&color=00E5FF"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/elnubi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elnubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/ELNUBI"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-ELNUBI-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/abdullahnubi"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-abdullahnubi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:abdallahnopy41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Elnubi7&style=for-the-badge"/>
+</p>
 
 ---
 
 ## 👋 About Me
-- AI Engineer focused on **Machine Learning → MLOps**
-- I build **production-ready** ML solutions: data → training → deployment → monitoring
-- Interests: **NLP**, **Computer Vision**, **Model Serving**, **CI/CD**, **Pipelines**
+- **Name:** Abdullah Nubi  
+- **Role:** AI Engineer (ML/DL/LLMs)  
+- **Location:** Egypt  
+- I build **production-ready ML systems**: data → training → evaluation → deployment → monitoring.
 
 ---
 
-## ⚡ Tech Stack (Icons)
-<div align="center">
+## 🧠 Core Skills
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,fastapi,flask,docker,kubernetes,linux,git,github,postgres,mongodb,redis,aws,gcp&perline=8" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&perline=12" />
+</p>
 
-</div>
+### ML / DL
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=12" />
+</p>
 
----
+### GenAI / LLMs
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash&perline=12" />
+  <img src="https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/VectorDB-000?style=flat-square" />
+</p>
 
-## 🧩 What I Do (ML → MLOps)
-- **Modeling:** classical ML, deep learning, transformers
-- **Data:** preprocessing, feature engineering, validation
-- **Deployment:** REST APIs (FastAPI/Flask), containerized services
-- **MLOps:** experiment tracking, model registry, CI/CD, monitoring & drift
-- **Orchestration:** scheduled training + automated pipelines
+### Backend / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,redis,mongodb&perline=12" />
+</p>
 
----
+### MLOps / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,terraform,aws,gcp&perline=12" />
+</p>
 
-## 🚀 Featured Work
-> Replace these with your real repos (or keep them placeholders).
-
-- **End-to-End ML Pipeline** — data ingestion → training → deployment  
-- **NLP Transformer App** — fine-tuning + serving + monitoring  
-- **MLOps Production System** — Docker + K8s + CI/CD + tracking  
-
----
-
-## 📊 Stats & Activity (Animated / Visual)
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Elnubi7&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Elnubi7&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Elnubi7&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elnubi7&theme=tokyo-night&hide_border=true" />
-
-</div>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux&perline=12" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
-> لازم تضيف Workflow (تحت) عشان الأنيميشن يشتغل.
+## 📈 Live Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elnubi7/Elnubi7/output/snake.svg" alt="snake animation" />
-</div>
+<p>
+  <img src="https://img.shields.io/github/followers/Elnubi7?style=flat-square&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Elnubi7?style=flat-square&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/last-commit/Elnubi7/Elnubi7?style=flat-square&logo=git&label=Last%20Update" />
+</p>
 
----
-
-## 🎬 GIF (اختار واحد أو حط بتاعك)
-<div align="center">
-
-<!-- Option 1: External GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
-
-<!-- Option 2: Your own GIF (recommended)
-1) create folder: assets/
-2) add: assets/ai.gif
-3) use: <img src="assets/ai.gif" width="520" />
--->
-
-</div>
+<p>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ELNUBI" />
+</p>
 
 ---
 
-## 🤝 Connect
-- LinkedIn: https://www.linkedin.com/in/elnubi/
-- GitHub: https://github.com/Elnubi7
+## 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/Elnubi7/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Elnubi7/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Elnubi7/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Elnubi7/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
-### ✅ Setup: GitHub Profile Repo
-1) اعمل Repo جديد اسمه: **Elnubi7**  
-2) حط الـ README.md ده جواه  
-3) فعل الـ Snake بالـ workflow اللي تحت
-
----
-
-## 🧾 GitHub Action for Snake (Paste as a file)
-Create this file:
-`.github/workflows/snake.yml`
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Elnubi7
-          outputs: |
-            dist/snake.svg
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 📫 Contact
+<p>
+  <a href="https://www.linkedin.com/in/elnubi/">
+    <img src="https://img.shields.io/badge/LinkedIn-elnubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ELNUBI">
+    <img src="https://img.shields.io/badge/Codeforces-ELNUBI-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/abdullahnubi">
+    <img src="https://img.shields.io/badge/Kaggle-abdullahnubi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
